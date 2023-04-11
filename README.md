@@ -1,5 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://laravelvuespa.com/preview.png" width="400"></a></p>
-<H1 align=center>Prueba Tecnica SBSA</H1>
+<H1 align=center>Prueba tecnica SBSA</H1>
 <h3>Instalacion</h3>
 <table>
 <tr>
